@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Imayaa 👋
 
-<!--
-**Imaya-varamban/Imaya-varamban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 Currently learning the ropes | 📈 Placement Prep 2026  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🧑‍🎓 A Computer Science student currently learning the ropes.  
+- 📚 Focusing on **C, C++ and Logical Thinking**.  
+- 🎯 Goal: Crack campus placements and grow as a **skilled software engineer**.  
+
+---
+
+## 🛠️ Current Learning  
+- C  
+- C++  
+- Logical Thinking  
+
+---
+
+## 📊 GitHub Stats  
+
+![Imayaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imayaa&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imayaa&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 [LinkedIn]www.linkedin.com/in/imayavaramban-501117317
+  
+- 📧 Email: imayavaramban2023@gmail.com  
+
+---
+
+⭐️ *"Consistency beats intensity. One step at a time towards placements 2026!"*  
