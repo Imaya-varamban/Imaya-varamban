@@ -1,4 +1,4 @@
-# Hi there, I'm Imayaa 👋
+# Hi there, I'm Imayavaramban 👋
 
 🎓 **Computer Science Student** | 💻 Currently learning the ropes | 📈 Placement Prep 2026  
 
